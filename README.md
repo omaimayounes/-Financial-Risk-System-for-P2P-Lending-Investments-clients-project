@@ -3,6 +3,7 @@
 This project aims to analyze and mitigate financial risks in Peer-to-Peer (P2P) lending investments. By leveraging advanced data analytics, machine learning, and business intelligence, we assess borrower creditworthiness, predict loan defaults, and optimize investment strategies for lending platforms.
 
 🏆 Key Features
+
 ✅ Credit Risk Modeling – Predict borrower risk using ML models.
 
 ✅ Loan Default Prediction – Identify high-risk loans to mitigate losses.
